@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently studying full-stack development at Masai school<br> All of my projects are available at https://bhushanmahajan.netlify.app/<br> How to reach me bhushan.mahajan2114@gmail.com
+"My name is Bhushan Mahajan, I am studying full-stack development at Masai school. A dynamic full-stack web developer with a strong command of JavaScript, React, Node.js, and MongoDB. I am passionate about building efficient, scalable web applications and continuously improving my skills to stay at the forefront of the industry.<br> All of my projects are available at https://bhushanmahajan.netlify.app/<br> How to reach me bhushan.mahajan2114@gmail.com
 
 
 ## 🌐 Socials:
